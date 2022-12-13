@@ -25,6 +25,9 @@ header {
 main {
     margin: 8rem 8rem 2rem 2rem;
 }
+main > h2{
+    font-size: xx-large;
+}
 
 .fileira{
     margin-top: 4rem;
@@ -37,12 +40,20 @@ main {
 .card{
     margin: 15px;
     background-color: rgb(218, 216, 216);
-    max-width: 185px;
+    max-width: 205px;
     border-radius: 1rem;
     box-shadow: 10px 10px 15px rgb(0 0 0 / 25%);
     padding: 25px;
-    width: 125px;
-    height: 125px;
+    width: 155px;
+    height: 155px;
+}
+.card-text{
+    color: rgb(99, 96, 96);
+}
+.card-text span{
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
 }
 
 footer {
