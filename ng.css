@@ -201,9 +201,10 @@ h3{
 
 .card-text span{
     color: rgb(88, 88, 88);
+    margin: 1REM;
 }
 
-.card-text button{
+/*.card-text button{
     margin: 2rem 0;
     cursor: pointer;
     background: darkred;
@@ -213,7 +214,7 @@ h3{
     border-radius: 1rem;
     font-weight: 600;
     width: 100%;
-}
+}*/
 
 .box{
     background-color: rgb(175, 174, 174);
